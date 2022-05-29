@@ -118,7 +118,7 @@ body {
   font-size: 16px;
 }
 .nav__tel--text::before {
-  content: url(/img/Vectortelimg.svg);
+  content: url(img/Vectortelimg.svg);
   display: inline-block;
   position: absolute;
   left: -21px;
@@ -332,12 +332,12 @@ body {
 
 .slider .slick-arrow.slick-prev {
   left: 0;
-  background: url(/img/LeftSlider.svg) 0 0/100% no-repeat;
+  background: url(img/LeftSlider.svg) 0 0/100% no-repeat;
 }
 
 .slider .slick-arrow.slick-next {
   right: 0;
-  background: url(/img/rightSlider.svg) 0 0/100% no-repeat;
+  background: url(img/rightSlider.svg) 0 0/100% no-repeat;
 }
 
 .slider__item--img {
@@ -384,7 +384,7 @@ body {
 .list__item--title:after {
   position: absolute;
   content: "";
-  background: url(/img/plus24.svg) 0 0/100%;
+  background: url(img/plus24.svg) 0 0/100%;
   width: 14px;
   height: 14px;
   top: 5px;
@@ -418,7 +418,7 @@ body {
 .list__item--title.active:after {
   position: absolute;
   content: "";
-  background: url(/img/minus23.svg) 0 0/100%;
+  background: url(img/minus23.svg) 0 0/100%;
   width: 14px;
   height: 3px;
   right: 0;
